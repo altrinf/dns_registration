@@ -1,0 +1,9 @@
+2026-02-27 17:38:26 | USER: admin | Action: Successful login
+2026-02-27 17:38:41 | USER: admin | Action: Successful user delete : hello
+2026-02-27 17:40:29 | USER: academy | Action: Successful login
+2026-02-27 17:41:20 | USER: admin | Action: Successful login
+2026-02-27 17:41:22 | USER: admin | Action: Listed users
+2026-02-27 17:41:29 | USER: admin | Action: Successful user delete : roi
+2026-02-27 17:42:27 | USER: roi | Action: New user registered
+2026-02-27 17:42:32 | USER: roi | Action: Successful login
+2026-02-27 17:42:34 | USER: roi | Action: Exited
